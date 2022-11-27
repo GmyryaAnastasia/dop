@@ -34,7 +34,6 @@ function App() {
     setShow([])
   }
 
-
   return (
     <div className="App">
 <Button name={'Show me'} callBack={useShowUp}/>
